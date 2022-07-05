@@ -1,3 +1,0 @@
-/mnt/c/Users/lu'ren'jia'd's/CLionProjects/QuoridorGame/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/lu'ren'jia'd's/CLionProjects/QuoridorGame/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lu'ren'jia'd's/CLionProjects/QuoridorGame/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_4c96f.dir
